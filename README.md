@@ -2,6 +2,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+Buscador de imágenes utilizando la API de Pixabay https://pixabay.com/
+En esta aplicación se utilizan estilos de bootstrap(bootswatch).
+Se crea un paginador para mostrar los resultados.
+
+## Available Scripts
+
 In the project directory, you can run:
 
 ### `npm start`
